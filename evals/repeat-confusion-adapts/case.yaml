@@ -1,4 +1,0 @@
-schema_version: "1.1"
-name: repeat-confusion-adapts
-expected_outcome: |
-  Identifies the missing base case, explains it with a small concrete example such as a countdown, and checks understanding with a small task. Treats the follow-up as progress, not failure.

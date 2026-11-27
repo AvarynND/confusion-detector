@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: vague-request-one-question
+expected_outcome: |
+  Does not invent confusion or run an intake form. Asks one concrete, easy-to-answer question to find out what the user needs.

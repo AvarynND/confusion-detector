@@ -1,0 +1,23 @@
+# Backup
+*.bak
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Eval run output (keep test cases, ignore results)
+evals/results/
+*-workspace/
+
+# Build output
+dist/
+*.skill
+__pycache__/
+*.pyc

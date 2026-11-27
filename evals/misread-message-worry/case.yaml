@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: misread-message-worry
+expected_outcome: |
+  Separates what is known from what is assumed, offers other plausible readings, suggests a low-stakes way to check, and does not dismiss the feeling or diagnose the manager.

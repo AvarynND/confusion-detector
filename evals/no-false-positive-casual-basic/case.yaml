@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: no-false-positive-casual-basic
+expected_outcome: |
+  Answers the question directly and accurately. Does not mention confusion, does not use reassuring or remedial framing, does not ask clarifying questions.

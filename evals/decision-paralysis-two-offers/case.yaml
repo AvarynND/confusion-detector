@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: decision-paralysis-two-offers
+expected_outcome: |
+  Narrows the decision to the criterion that matters (risk tolerance), gives a conditional lean, and asks at most one question. Does not produce a long pros and cons table.

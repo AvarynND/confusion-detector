@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: explicit-concept-confusion
+expected_outcome: |
+  Explains idempotent in plain language with a contrast, answers the retry question (plain POST usually not idempotent; idempotency keys), and offers a concrete next step. Does not label the user as confused.
